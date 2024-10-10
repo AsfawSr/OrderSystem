@@ -1,7 +1,6 @@
-package com.FinalProject.Bank.repositories;
+package com.FinalProject.OrderSystem.repositories;
 
-import com.FinalProject.Bank.models.OrderEntity;
-import jakarta.persistence.criteria.Order;
+import com.FinalProject.OrderSystem.models.OrderEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

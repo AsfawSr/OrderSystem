@@ -1,7 +1,7 @@
-package com.FinalProject.Bank.services.orderService;
+package com.FinalProject.OrderSystem.services.orderService;
 
-import com.FinalProject.Bank.models.OrderEntity;
-import com.FinalProject.Bank.repositories.OrderEntityRepository;
+import com.FinalProject.OrderSystem.models.OrderEntity;
+import com.FinalProject.OrderSystem.repositories.OrderEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

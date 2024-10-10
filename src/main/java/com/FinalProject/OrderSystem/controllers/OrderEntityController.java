@@ -1,7 +1,7 @@
-package com.FinalProject.Bank.controllers;
+package com.FinalProject.OrderSystem.controllers;
 
-import com.FinalProject.Bank.models.OrderEntity;
-import com.FinalProject.Bank.services.orderService.OrderEntityService;
+import com.FinalProject.OrderSystem.models.OrderEntity;
+import com.FinalProject.OrderSystem.services.orderService.OrderEntityService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

@@ -1,6 +1,6 @@
-package com.FinalProject.Bank.services.orderService;
+package com.FinalProject.OrderSystem.services.orderService;
 
-import com.FinalProject.Bank.models.OrderEntity;
+import com.FinalProject.OrderSystem.models.OrderEntity;
 
 import java.util.List;
 

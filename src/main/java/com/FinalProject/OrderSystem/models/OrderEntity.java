@@ -1,4 +1,4 @@
-package com.FinalProject.Bank.models;
+package com.FinalProject.OrderSystem.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

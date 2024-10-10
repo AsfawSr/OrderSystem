@@ -1,4 +1,4 @@
-package com.FinalProject.Bank.controllers;
+package com.FinalProject.OrderSystem.controllers;
 
 import org.springframework.stereotype.Controller;
 

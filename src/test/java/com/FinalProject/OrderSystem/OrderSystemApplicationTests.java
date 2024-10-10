@@ -1,4 +1,4 @@
-package com.FinalProject.Bank;
+package com.FinalProject.OrderSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

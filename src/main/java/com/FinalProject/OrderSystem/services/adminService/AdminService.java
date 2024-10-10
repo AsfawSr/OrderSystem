@@ -1,14 +1,11 @@
-package com.FinalProject.Bank.services.adminService;
+package com.FinalProject.OrderSystem.services.adminService;
 
-import com.FinalProject.Bank.models.Admin;
-import com.FinalProject.Bank.models.OrderEntity;
-
-import java.util.List;
+import com.FinalProject.OrderSystem.models.Admin;
 
 public interface AdminService {
     void saveAdmin(Admin admin);
     void removeAdmin(Admin admin);
-    Admin getCustomerById(long id);
+    Admin getAdminById(long id);
     Admin getAdminByUsername(String username);
     Admin getAdminByEmail(String email);
     boolean existsByEmail(Admin admin);

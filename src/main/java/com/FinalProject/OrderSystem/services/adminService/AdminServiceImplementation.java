@@ -1,7 +1,7 @@
-package com.FinalProject.Bank.services.adminService;
+package com.FinalProject.OrderSystem.services.adminService;
 
-import com.FinalProject.Bank.models.Admin;
-import com.FinalProject.Bank.repositories.AdminRepository;
+import com.FinalProject.OrderSystem.models.Admin;
+import com.FinalProject.OrderSystem.repositories.AdminRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -24,7 +24,7 @@ public class AdminServiceImplementation implements AdminService{
     }
 
     @Override
-    public Admin getCustomerById(long id) {
+    public Admin getAdminById(long id) {
         return adminRepository.findById(id).get();
     }
 

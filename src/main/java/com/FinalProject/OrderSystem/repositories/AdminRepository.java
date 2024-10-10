@@ -1,6 +1,6 @@
-package com.FinalProject.Bank.repositories;
+package com.FinalProject.OrderSystem.repositories;
 
-import com.FinalProject.Bank.models.Admin;
+import com.FinalProject.OrderSystem.models.Admin;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
