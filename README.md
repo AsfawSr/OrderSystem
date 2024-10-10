@@ -1,4 +1,4 @@
-# OrderSystem
+# Order Management System
 
 Order Management System
 This system is designed to allow customers to place orders efficiently through a simple web interface. The application handles order submission, validation, and user feedback, ensuring a seamless customer experience.
